@@ -1,0 +1,11 @@
+python-dotenv~=1.0.1
+streamlit~=1.32.2
+langchain~=0.1.12
+pandas~=2.2.0
+unstructured~=0.12.6
+langchain-community
+qianfan
+streamlit-pdf-viewer
+langchain-openai
+chromadb
+rank_bm25
